@@ -1,3 +1,5 @@
+package FirstHomework;
+
 // Задание 2.9. Вывести квадрат числа 9
 public class SquaredNumberOutput {
     public static void main(String[] args) {

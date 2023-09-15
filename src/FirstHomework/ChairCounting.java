@@ -1,3 +1,5 @@
+package FirstHomework;
+
 import java.util.Scanner;
 public class ChairCounting {
     public static void main(String[] args) {

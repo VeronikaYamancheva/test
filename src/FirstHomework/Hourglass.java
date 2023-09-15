@@ -1,4 +1,4 @@
-// Задание 2.12. Вывести песочные часы из символов
+package FirstHomework;// Задание 2.12. Вывести песочные часы из символов
 
 public class Hourglass {
     public static void main(String[] args) {

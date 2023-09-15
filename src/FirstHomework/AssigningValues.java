@@ -1,3 +1,5 @@
+package FirstHomework;
+
 // Задание 1.5. фрагмент класса который присваиваает х 7.5,
 // а переменным a и b  значения вдвое и втрое больше
 public class AssigningValues {

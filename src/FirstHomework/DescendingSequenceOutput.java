@@ -1,4 +1,4 @@
-//Задание 11.13 вывод трехзначных чисел в убывающем порядке
+package FirstHomework;//Задание 11.13 вывод трехзначных чисел в убывающем порядке
 
 public class DescendingSequenceOutput {
     public static void main(String[] args) {

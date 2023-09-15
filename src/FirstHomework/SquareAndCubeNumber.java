@@ -1,4 +1,4 @@
-//Задание 2.8.  вывести число, его  квадрат и куб
+package FirstHomework;//Задание 2.8.  вывести число, его  квадрат и куб
 
 public class SquareAndCubeNumber {
     public static void main(String[] args) {

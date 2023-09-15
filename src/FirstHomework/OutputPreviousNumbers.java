@@ -1,4 +1,4 @@
-//Задание 3.7. вывод трех предыдущих чисел
+package FirstHomework;//Задание 3.7. вывод трех предыдущих чисел
 
 import java.util.Scanner;
 
